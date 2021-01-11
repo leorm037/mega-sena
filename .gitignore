@@ -65,4 +65,5 @@ $RECYCLE.BIN/
 
 # Mega-sena
 config.php
-storage/cache/*.cache
+!storage/cache/
+storage/cache/**
