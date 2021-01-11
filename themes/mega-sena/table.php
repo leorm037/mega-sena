@@ -1,9 +1,9 @@
 <div class="table_content">
-<h1>Quantidade números juntos: <?= $qtd ?> (ano: <?= $ano ?>)</h1>
+<h1>Números: <?= $qtd ?> (ano: <?= $ano ?>)</h1>
 <table class="number_played">
     <tr>
         <th>Números</th>
-        <th>Quantidade</th>
+        <th>Vezes sorteado</th>
     </tr>
     <?php foreach ($resultado as $key => $value): ?>
         <tr>

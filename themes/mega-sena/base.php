@@ -19,7 +19,7 @@
 
                 <nav class="header_content_menu">
                     <ul>
-                        <li><a href="<?= url(); ?>">Home</a></li>
+                        <li><a href="<?= url(); ?>">Todos os anos</a></li>
                         <li><a href="<?= url("ano/2020"); ?>">2020</a></li>
                         <li><a href="<?= url("ano/2019"); ?>">2019</a></li>
                         <li><a href="<?= url("ano/2018"); ?>">2018</a></li>

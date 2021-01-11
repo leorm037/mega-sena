@@ -24,4 +24,4 @@ define("CONF_VIEW_THEME", "mega-sena");
 define("CONF_DB_HOST", "localhost");
 define("CONF_DB_NAME", "megasena");
 define("CONF_DB_USER", "megasena");
-define("CONF_DB_PASS", "megasena");
+define("CONF_DB_PASS", "");
