@@ -49,10 +49,6 @@
                 "routes",
                 "upinside"
             ],
-            "support": {
-                "issues": "https://github.com/robsonvleite/router/issues",
-                "source": "https://github.com/robsonvleite/router/tree/master"
-            },
             "time": "2019-09-30T16:29:47+00:00"
         },
         {
@@ -125,10 +121,6 @@
                 "templating",
                 "views"
             ],
-            "support": {
-                "issues": "https://github.com/thephpleague/plates/issues",
-                "source": "https://github.com/thephpleague/plates/tree/master"
-            },
             "time": "2018-01-31T07:20:23+00:00"
         }
     ],
@@ -143,6 +135,5 @@
     "platform": {
         "php": "^7.3"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "platform-dev": []
 }
